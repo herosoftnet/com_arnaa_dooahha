@@ -1,6 +1,6 @@
-# com_arnaa_dooahha
-# دعای تسخیر قلب، چشم، ثروت، نیاز
  # com.arnaa.dooahha
+# دعای تسخیر قلب، چشم، ثروت، نیاز
+
 # Privacy Policy
 
 MasterAppDeveloper built the TraficMap app as an Ad Supported app. This SERVICE is provided by MasterAppDeveloper at no cost and is intended for use as is.
